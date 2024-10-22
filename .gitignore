@@ -1,0 +1,98 @@
+Last login: Tue Oct 15 12:40:24 on console
+mattliao@MattLiaodeMacBook-Air ~ % ls
+Applications			character_images
+BinaryTreeConstruction		config.h
+BinaryTreeConstruction.cpp	config_components.h
+BinaryTreeConstruction.dSYM	data
+Cisco Packet Tracer 8.2.1	doc
+Desktop				eclipse
+Documents			ffbuild
+Downloads			go
+GL-Robot			libavcodec
+Library				libavdevice
+Makefile			libavfilter
+Movies				libavformat
+Music				libavutil
+Pictures			src
+Public				tests
+Revive
+mattliao@MattLiaodeMacBook-Air ~ % cd Desktop
+mattliao@MattLiaodeMacBook-Air Desktop % ls
+30-Days-Of-React			ModMulEquation.dSYM
+AccessToken.txt				MulInv
+Barron'sTOEIC_MockTest_Answer.txt	MulInv.dSYM
+C++Practice				PythonPackagePractice
+CampusGuide				SkinData
+CampusGuideServer			Test.tex
+CapstoneProject				Ultimate_Chess
+ClassWithBiggerAmount			Ultimate_Chess.zip
+CompilerHW				Ultimate_Chess_Reserve
+CompilerHW2				Ultimate_Chess_Test_Assets
+CompilerHW2.zip				UnityObjPackages
+Crawler					code_base_practice
+DeepLearningPractice			git_practice
+ForumServer				hello
+GithubAuthentication			iOS_Final_Project_Game.zip
+GithubAuthentication.zip		stock_data
+Homeworks				stock_data_clean
+ImageConverter.py			stock_data_labeled.zip
+InversionNumber.py			transformer_test.py
+ItemAndEquipmentUI			截圖 2024-05-18 20.16.46.png
+Learning Resources			論文BloombergGPT.pdf
+MaxProduct				國防期中報告參訪計畫.pages
+ModMulEquation				國防期中報告參訪計畫.pdf
+ModMulEquation.cpp
+mattliao@MattLiaodeMacBook-Air Desktop % cd C++Practice
+mattliao@MattLiaodeMacBook-Air C++Practice % ls
+AdvancedTree	BinaryTree	CNN.c		Stack_and_Queue
+mattliao@MattLiaodeMacBook-Air C++Practice % cd AdvancedTree
+mattliao@MattLiaodeMacBook-Air AdvancedTree % ls
+DisjointSets			DoubleEndedPriorityQueues
+mattliao@MattLiaodeMacBook-Air AdvancedTree % cd DisjointSets
+mattliao@MattLiaodeMacBook-Air DisjointSets % vim .gitignore
+mattliao@MattLiaodeMacBook-Air DisjointSets % cd ..
+mattliao@MattLiaodeMacBook-Air AdvancedTree % cd ..
+mattliao@MattLiaodeMacBook-Air C++Practice % cd BinaryTree
+mattliao@MattLiaodeMacBook-Air BinaryTree % ls
+BST			BinaryTreeWithFunctions
+mattliao@MattLiaodeMacBook-Air BinaryTree % ls -a
+.			.DS_Store		BinaryTreeWithFunctions
+..			BST
+mattliao@MattLiaodeMacBook-Air BinaryTree % cd BinaryTreeWithFunctions
+mattliao@MattLiaodeMacBook-Air BinaryTreeWithFunctions % ls
+BinaryTree.cpp		BinaryTreeNode.hpp	main.cpp
+BinaryTree.hpp		README.md		main.dSYM
+BinaryTreeNode.cpp	main
+mattliao@MattLiaodeMacBook-Air BinaryTreeWithFunctions % ls -a
+.			.vscode			README.md
+..			BinaryTree.cpp		main
+.DS_Store		BinaryTree.hpp		main.cpp
+.git			BinaryTreeNode.cpp	main.dSYM
+.gitignore		BinaryTreeNode.hpp
+mattliao@MattLiaodeMacBook-Air BinaryTreeWithFunctions % vim .gitignore
+
+# Created by https://www.gitignore.io/api/visualstudiocode
+# Edit at https://www.gitignore.io/?templates=visualstudiocode
+
+### VisualStudioCode ###
+.vscode/*      # Maybe .vscode/**/* instead - see comments
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+**/.history
+
+# End of https://www.gitignore.io/api/visualstudiocode
+
+.DS_Store/
+.main.dSYM/
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+".gitignore" 18L, 456B
+
